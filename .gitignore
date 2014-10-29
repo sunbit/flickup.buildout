@@ -5,6 +5,10 @@ __pycache__/
 # C extensions
 *.so
 
+.mr.developer.cfg
+src/
+bin/
+
 # Distribution / packaging
 .Python
 env/
